@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms-SPPU-SE-Comp-2019-Pattern
+# Data-Structures-and-Algorithms-Lab-SPPU-SE-Comp-2019-Pattern
